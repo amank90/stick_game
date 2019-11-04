@@ -1,1 +1,1 @@
-# tickgame
+# stickgame
