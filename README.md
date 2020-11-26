@@ -11,6 +11,6 @@ This problem is taken from [University of Helsinki AI problem](http://nifty.stan
 
 
 
-*src/train_stick_game.py* - Run this script to train the AI player
+*src/train_stick_game.py* - Run this script to train the AI players
 
 src/play_game.py* - Run this script to play the game with the trained AI player
